@@ -1,0 +1,24 @@
+body{
+   margin: 4em;
+    padding: 10px;
+}  
+
+h2{
+    color:slateblue; 
+  font-size: 25px;
+}
+h3{
+   
+  font-size: 17px;
+}
+p{
+  text-align: justify
+  font-size: 18px; 
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+hr{
+    background-color: black;
+    height: 1px;
+}
